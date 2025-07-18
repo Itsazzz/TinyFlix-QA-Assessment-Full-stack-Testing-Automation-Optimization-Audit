@@ -1,5 +1,5 @@
 
-# 🎥 Tinyflix QA Assessment – Mohamed Azharudeen
+# 🎥 Tinyflix QA Assessment
 
 ## 🧑 Author
 **Name:** Mohamed Azharudeen  
