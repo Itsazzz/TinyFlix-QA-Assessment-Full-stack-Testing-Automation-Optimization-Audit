@@ -1,8 +1,5 @@
 
-# 🎥 TinyFlix QA Assessment – Full-stack Testing, Automation & Optimization Audit
-
-## Project Summary
-A full-scale quality assurance audit of a React-based video streaming platform — TinyFlix — focusing on real-world bug identification, test planning, Cypress automation, performance tuning using Lighthouse, and accessibility compliance based on WCAG 2.1 guidelines.
+# 🎥 Tinyflix QA Assessment – Mohamed Azharudeen
 
 ## 🧑 Author
 **Name:** Mohamed Azharudeen  
@@ -86,5 +83,18 @@ This report was prepared with professional-level QA standards to demonstrate rea
 
 ---
 
+## 📂 Folder Structure (Recommended Submission)
 
-
+```
+Tinyflix-QA-Assessment/
+│
+├── Bug Analysis Report.docx
+├── TestPlan.docx
+├── accessibility-report.md
+├── performance-report.md
+├── README.md
+├── TestImplementation/
+│   ├── tinyflix.cy.js
+│   ├── test-results.md
+│   └── run-instructions.txt
+```

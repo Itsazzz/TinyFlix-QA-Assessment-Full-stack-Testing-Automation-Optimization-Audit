@@ -1,0 +1,11 @@
+1. Install dependencies:
+   npm install
+
+2. Open Cypress:
+   npx cypress open
+
+3. Run test suite:
+   Choose 'tinyflix.cy.js' from the Cypress UI
+
+4. OR run all tests via terminal:
+   npx cypress run
