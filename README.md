@@ -1,13 +1,6 @@
 
 # 🎥 Tinyflix QA Assessment
 
-## 🧑 Author
-**Name:** Mohamed Azharudeen  
-**Role:** Cybersecurity & QA Analyst Intern  
-**Date:** July 15, 2025
-
----
-
 ## 🛠 Setup Instructions
 
 1. **Clone the repository:**
