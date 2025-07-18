@@ -75,19 +75,3 @@
 This report was prepared with professional-level QA standards to demonstrate real-world testing skills, bug identification, automation, and reporting. Thank you for reviewing this assessment.
 
 ---
-
-## 📂 Folder Structure (Recommended Submission)
-
-```
-Tinyflix-QA-Assessment/
-│
-├── Bug Analysis Report.docx
-├── TestPlan.docx
-├── accessibility-report.md
-├── performance-report.md
-├── README.md
-├── TestImplementation/
-│   ├── tinyflix.cy.js
-│   ├── test-results.md
-│   └── run-instructions.txt
-```
